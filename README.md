@@ -31,3 +31,9 @@ L'affichage de la fenêtre de réservation sur le serveur
 
 ![image](https://github.com/anis13013/DHCP-avec-Windows-Server/blob/f9e82e0caebf666b706d0c8e95cbcc48b962d430/DHCP/reservation%20IP%20du%20second%20client.PNG)
 
+---
+
+Le renouvellement d'IP pour client2 lui attribue toujours la même adresse
+
+![image](https://github.com/anis13013/DHCP-avec-Windows-Server/blob/3b3496d9a1347c3c169ec28f640a1dcf7b39ad7d/DHCP/renouvellemnt%20ip%20client%202.PNG)
+
